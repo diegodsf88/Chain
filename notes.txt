@@ -1,0 +1,2 @@
+Build connections one link at a time.
+Strong chains start with one link.
