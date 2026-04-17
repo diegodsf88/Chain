@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: #eee;
+}
+
+header {
+  text-align: center;
+  padding: 30px;
+  border-bottom: 2px solid #444;
+}
+
+.chain-area {
+  padding: 30px;
+  text-align: center;
+}
+
+.link {
+  display: inline-block;
+  margin: 8px;
+  padding: 12px 18px;
+  border: 2px solid #aaa;
+  border-radius: 999px;
+}
